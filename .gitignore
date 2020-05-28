@@ -1,0 +1,8 @@
+.idea
+main/node_modules
+render/node_modules
+main/package-lock.json
+render/package-lock.json
+main/src/*.js*
+render/src/*.js*
+render/src/*.css*
